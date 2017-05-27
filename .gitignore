@@ -2,5 +2,6 @@
 /Temp/
 /Library/
 /.vs/
+/.idea/
 *.sln
 *.csproj
