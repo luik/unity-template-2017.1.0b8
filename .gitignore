@@ -3,5 +3,6 @@
 /Library/
 /.vs/
 /.idea/
+/obj/
 *.sln
 *.csproj
