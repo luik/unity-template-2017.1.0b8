@@ -7,3 +7,4 @@
 *.sln
 *.csproj
 /*.userprefs
+/*.DotSettings.user
