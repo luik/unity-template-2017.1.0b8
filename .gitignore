@@ -8,3 +8,4 @@
 *.csproj
 /*.userprefs
 /*.DotSettings.user
+**/Unity3DRider.cs*
